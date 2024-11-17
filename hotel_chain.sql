@@ -1,6 +1,6 @@
 -- Create the database
-CREATE DATABASE hotel_db;
-USE hotel_db;
+CREATE DATABASE hotel_chain;
+USE hotel_chain;
 
 -- Table: guests
 CREATE TABLE guests (
